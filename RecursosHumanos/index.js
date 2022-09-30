@@ -1,0 +1,5 @@
+class RecursosHumanos{
+    constructor(){
+        
+    }
+}

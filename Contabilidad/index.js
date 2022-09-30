@@ -1,0 +1,5 @@
+class Contabilidad{
+    constructor(){
+        
+    }
+}
